@@ -1,0 +1,10 @@
+NODEJS :>)
+
+?What is NODEJS?
+
+-> NodeJS is a Server Environment. It internally uses javascript to run it. javascript is used to 
+run our file.
+-> We can connect with database,api and ect...,
+-> NodeJS uses V8 engine to execute the code.
+-> Mainly used for connect database like WebAPI & MobileAPI.
+-> NodeJS runs on the Server Side and Javascript runs on the browser. 
