@@ -1,3 +1,4 @@
+//TypeScript with node Environment !!!
 function isVotable(user) {
     return user.age >= 18;
 }
